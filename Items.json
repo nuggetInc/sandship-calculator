@@ -25,7 +25,6 @@
   "ironWire":{"name":"Iron Wire", "storageCap":9000, "itemPrice":0.08},
   "oxygen":{"name":"Oxygen", "storageCap":null, "itemPrice":null},
   "silicon":{"name":"Silicon", "storageCap":9000, "itemPrice":0.08},
-  
   "steel":{"name":"Steel", "storageCap":9000, "itemPrice":0.14},
   "steelBarrel":{"name":"Steel Barrel", "storageCap":9000, "itemPrice":0.82},
   "steelBarrelWater":{"name":"Steel Barrel (Water)", "storageCap":9000, "itemPrice":null},
